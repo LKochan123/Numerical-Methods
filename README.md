@@ -1,2 +1,2 @@
 # Numerical-Methods
-Collegue course
+College course
